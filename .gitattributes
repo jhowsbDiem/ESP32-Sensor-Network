@@ -1,0 +1,2 @@
+# LF everywhere, regardless of each clone's core.autocrlf setting
+* text=auto eol=lf
