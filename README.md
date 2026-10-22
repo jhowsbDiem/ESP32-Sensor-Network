@@ -20,7 +20,8 @@ firmware, the node firmware, and the path from the gateway to the database.
 ## 🤝 Contributing
 
 Workflow, commit and comment conventions are in
-[`CONTRIBUTING.md`](CONTRIBUTING.md).
+[`CONTRIBUTING.md`](CONTRIBUTING.md). Vulnerabilities are reported privately,
+as described in [`SECURITY.md`](SECURITY.md).
 
 ---
 

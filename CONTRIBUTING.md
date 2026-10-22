@@ -9,6 +9,7 @@ in the [README](README.md).
 ## ⚙️ Setting Up
 
 * **Requirement:** ESP-IDF v6.1, with its environment active in the terminal.
+* **Editor:** any editor with EditorConfig support picks up the project's formatting from `.editorconfig`.
 * **Build**, from the firmware folder:
   ```bash
   idf.py build
@@ -22,7 +23,7 @@ in the [README](README.md).
 
 ## 🔀 Workflow
 
-1. Every change starts from an issue.
+1. Every change starts from an issue, opened from one of the issue templates.
 2. A larger feature gets its own branch from `main`: `feature/<name>`.
 3. Each of its issues gets a branch from the feature branch:
    `feature/<N>-<subject>` (or `fix/`, `docs/`).
@@ -72,5 +73,7 @@ Closes #3
 
 * **[README.md](README.md):** overview, hardware, and project status.
 * **CONTRIBUTING.md:** this guide — setup, workflow, and conventions.
+* **[SECURITY.md](SECURITY.md):** how to report a vulnerability privately.
 * **[LICENSE](LICENSE):** the MIT license.
 * **[CLAUDE.md](CLAUDE.md):** instructions for AI coding agents working in the repository.
+* **[.github/](.github/):** issue and pull request templates.

@@ -48,4 +48,6 @@ has no code yet: the project is at the architecture stage.
 
 * **[README.md](README.md):** overview, hardware, and project status.
 * **[CONTRIBUTING.md](CONTRIBUTING.md):** setup, workflow, and commit and comment conventions.
+* **[SECURITY.md](SECURITY.md):** how to report a vulnerability privately.
 * **[LICENSE](LICENSE):** the MIT license.
+* **[.github/](.github/):** issue and pull request templates.
